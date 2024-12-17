@@ -80,6 +80,8 @@ By the end of this book, you'll have a thorough understanding of how to leverage
 
 </ol>
 
+We have taken it one step further and provided you with video tutorials where we walk you through the steps to demonstrate the concepts taught in these online chapters. Below, we have listed the title and a brief description of the bonus content that is available online at https://packt.link/supplementary-content-9781836649977<a href="https://packt.link/supplementary-content-9781836649977">
+
 </details>
 
 
